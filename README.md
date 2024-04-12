@@ -1,7 +1,7 @@
-# Project Name - _Project Author (Change Me)_
+# YOutube Automation - Poonam Kanase
 
 ## Project Name and Description:
-A concise yet descriptive title and an overview of the project’s purpose.
+Automated youtube for various searches and tabs
 
 ## Installation Instructions:
 Clear steps to set up and run the project locally.
